@@ -2,3 +2,4 @@ hi i am anish dey
 1 2 3
 a new content is added to the file and commit it.
 another line is added to the file
+hello how are u
